@@ -19,5 +19,6 @@ I am a BTech Computer Science student specializing in AI and ML with a deep inte
 * **Low-Level Architecture** | Computer Organization & Silicon Logic
 
 ### 📫 Connect
-- LinkedIn: [Connect with me]!(https://www.linkedin.com/in/achyut-srivastava-8938532b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- Email: [achyutsrivastava2007@gmail.com]
+
+* **LinkedIn** | [achyut-srivastava](https://www.linkedin.com/in/achyut-srivastava-8938532b7)
+* **Email** | [achyutsrivastava2007@gmail.com](mailto:achyutsrivastava2007@gmail.com)
